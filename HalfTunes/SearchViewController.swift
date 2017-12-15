@@ -100,8 +100,8 @@ class SearchViewController: UIViewController {
     }
     
     DispatchQueue.main.async {
-      self.tableView.reloadData()
-      self.tableView.setContentOffset(CGPoint.zero, animated: false)
+      self.tableView?.reloadData()
+      self.tableView?.setContentOffset(CGPoint.zero, animated: false)
     }
   }
   
