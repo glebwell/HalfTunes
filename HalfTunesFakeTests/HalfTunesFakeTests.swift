@@ -33,6 +33,14 @@ class HalfTunesFakeTests: XCTestCase {
         controllerUnderTest = nil
         super.tearDown()
     }
+
+    func testStartDownloadPerformance() {
+        let track = Track(name: "Waterloo", artist: "ABBA",
+                          previewUrl: "http://a821.phobos.apple.com/us/r30/Music/d7/ba/ce/mzm.vsyjlsff.acc.p.m4a")
+        measure {
+            self.controllerUnderTest?.startDownload(track)
+        }
+    }
     
     func testUpdateSearchResultsParsesData() {
         // given

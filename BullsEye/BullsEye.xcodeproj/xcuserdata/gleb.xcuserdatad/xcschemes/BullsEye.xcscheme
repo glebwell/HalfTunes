@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D9EF8FC01B53FD2100EFC4B6"
-               BuildableName = "HalfTunes.app"
-               BlueprintName = "HalfTunes"
-               ReferencedContainer = "container:HalfTunes.xcodeproj">
+               BlueprintIdentifier = "40907E251CA8C0C500CAB5AC"
+               BuildableName = "BullsEye.app"
+               BlueprintName = "BullsEye"
+               ReferencedContainer = "container:BullsEye.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -26,37 +26,36 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES"
-      codeCoverageEnabled = "YES">
+      shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F7123D471FE18700006988D9"
-               BuildableName = "HalfTunesSlowTests.xctest"
-               BlueprintName = "HalfTunesSlowTests"
-               ReferencedContainer = "container:HalfTunes.xcodeproj">
+               BlueprintIdentifier = "F712921E1FE5527400D18192"
+               BuildableName = "BullsEyeMockTests.xctest"
+               BlueprintName = "BullsEyeMockTests"
+               ReferencedContainer = "container:BullsEye.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F71250ED1FE2FB8F00861A37"
-               BuildableName = "HalfTunesFakeTests.xctest"
-               BlueprintName = "HalfTunesFakeTests"
-               ReferencedContainer = "container:HalfTunes.xcodeproj">
+               BlueprintIdentifier = "F74284851FE55B2400F805B9"
+               BuildableName = "BullsEyeUITests.xctest"
+               BlueprintName = "BullsEyeUITests"
+               ReferencedContainer = "container:BullsEye.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D9EF8FC01B53FD2100EFC4B6"
-            BuildableName = "HalfTunes.app"
-            BlueprintName = "HalfTunes"
-            ReferencedContainer = "container:HalfTunes.xcodeproj">
+            BlueprintIdentifier = "40907E251CA8C0C500CAB5AC"
+            BuildableName = "BullsEye.app"
+            BlueprintName = "BullsEye"
+            ReferencedContainer = "container:BullsEye.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D9EF8FC01B53FD2100EFC4B6"
-            BuildableName = "HalfTunes.app"
-            BlueprintName = "HalfTunes"
-            ReferencedContainer = "container:HalfTunes.xcodeproj">
+            BlueprintIdentifier = "40907E251CA8C0C500CAB5AC"
+            BuildableName = "BullsEye.app"
+            BlueprintName = "BullsEye"
+            ReferencedContainer = "container:BullsEye.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D9EF8FC01B53FD2100EFC4B6"
-            BuildableName = "HalfTunes.app"
-            BlueprintName = "HalfTunes"
-            ReferencedContainer = "container:HalfTunes.xcodeproj">
+            BlueprintIdentifier = "40907E251CA8C0C500CAB5AC"
+            BuildableName = "BullsEye.app"
+            BlueprintName = "BullsEye"
+            ReferencedContainer = "container:BullsEye.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
